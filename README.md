@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 👋
+
+I'm a third-year Computer Science Honours student at the University of Manitoba. On the side I enjoy gardening, cooking, playing video games, staying up way too late working on a side project, and catching up on sleep, usually in that order.
+
+#### Stuff I have in the works:
+
+⌚ Instant Weather, a lightning-fast weather app for the totally-retro-at-this-point Pebble smartwatch
+
+🔮 An untitled game - currently prototyping and experimenting with different engines, genres, and mechanics for a new game to follow up on Crazy Tennis, a project I finished earlier this year. Coming "soon"!
 
 <!--
 **drkitt/drkitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
