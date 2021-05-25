@@ -4,7 +4,7 @@ I'm a third-year Computer Science Honours student at the University of Manitoba.
 
 #### Recent and ongoing projects:
 
-🎾 Crazy Tennis, a seemingly simple tennis game that later reveals itself to be a bullet hell combat game. Made in collaboration with @smallwoj; I programmed enemies' behaviour, created the UI, and designed all of the visual assets.
+🎾 Crazy Tennis, a seemingly simple tennis game that later reveals itself to be a bullet hell combat game. Made in collaboration with another programmer; I programmed enemies' behaviour, created the UI, and designed all of the visual assets.
 
 ⌚ Instaweather, a lightning-fast weather app for the totally-retro Pebble smartwatch
 
