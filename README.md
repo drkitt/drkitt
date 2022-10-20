@@ -4,7 +4,7 @@ I'm Alex, a fifth-year Computer Science Honours student at the University of Man
 
 #### Recent and ongoing projects:
 
-🎾 Crazy Tennis, a seemingly simple tennis game that later reveals itself to be a bullet hell combat game. Made in collaboration with another programmer; I programmed enemies' behaviour, created the UI, and designed all of the visual assets.
+🦖 An input buffer for the Godot game engine, which makes user input more responsive and comes with a scary-accurate replica of the Google Chrome dino game to test it with
 
 ⌚ Instaweather, a lightning-fast weather app for the totally-retro Pebble smartwatch
 
