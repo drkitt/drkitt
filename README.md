@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Alex, a fifth-year Computer Science Honours student at the University of Manitoba. On the side I enjoy gardening, cooking, playing video games, staying up way too late working on a side project, and catching up on sleep, usually in that order.
+I'm Alex, a Computer Science graduate student at the University of Manitoba. On the side I enjoy gardening, cooking, playing video games, staying up way too late working on a side project, and catching up on sleep, usually in that order.
 
 #### Recent and ongoing projects:
 
